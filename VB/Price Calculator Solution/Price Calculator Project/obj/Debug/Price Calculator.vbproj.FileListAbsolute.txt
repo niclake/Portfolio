@@ -1,0 +1,10 @@
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\bin\Debug\Price Calculator.exe
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\bin\Debug\Price Calculator.pdb
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\bin\Debug\Price Calculator.xml
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price_Calculator.MainForm.resources
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price_Calculator.Resources.resources
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price Calculator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price Calculator.exe
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price Calculator.xml
+C:\Documents and Settings\WinUser\Local Settings\Application Data\Temporary Projects\Price Calculator\obj\Debug\Price Calculator.pdb

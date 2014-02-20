@@ -1,0 +1,13 @@
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.exe
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.xml
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\bin\Debug\GasPricesProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\bin\Debug\GasPricesProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\bin\Debug\GasPricesProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPrices.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPrices.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.vbproj.GenerateResource.Cache

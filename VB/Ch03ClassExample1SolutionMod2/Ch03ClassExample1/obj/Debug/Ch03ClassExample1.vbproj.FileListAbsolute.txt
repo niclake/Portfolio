@@ -1,0 +1,82 @@
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1Solution\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionKey\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+H:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Spring09\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2Key\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+E:\150034-Bradley\Chapter 3\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+L:\courses\150034\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.exe
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.pdb
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\bin\Debug\Ch03ClassExample1.xml
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.Resources.resources
+C:\Documents and Settings\ilk\Desktop\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.exe
+C:\Users\niclake\Documents\My Dropbox\VB\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.xml
+C:\Users\niclake\Documents\My Dropbox\VB\Ch03ClassExample1SolutionMod2\Ch03ClassExample1\obj\Debug\Ch03ClassExample1.pdb

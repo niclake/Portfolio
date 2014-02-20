@@ -1,0 +1,3 @@
+E:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+E:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+E:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb

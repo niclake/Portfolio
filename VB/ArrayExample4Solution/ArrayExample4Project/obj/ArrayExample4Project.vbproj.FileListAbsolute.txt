@@ -1,0 +1,3 @@
+E:\Chapter 8\ArrayExample4SolutionKey\ArrayExample4Project\obj\Debug\ArrayExample4Project.exe
+E:\Chapter 8\ArrayExample4SolutionKey\ArrayExample4Project\obj\Debug\ArrayExample4Project.xml
+E:\Chapter 8\ArrayExample4SolutionKey\ArrayExample4Project\obj\Debug\ArrayExample4Project.pdb

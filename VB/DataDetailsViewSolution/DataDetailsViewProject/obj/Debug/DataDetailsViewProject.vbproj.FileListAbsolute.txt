@@ -1,0 +1,13 @@
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\VBAuto.mdf
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\VBAuto_log.ldf
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\DataDetailsViewProject.exe.config
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\DataDetailsViewProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\DataDetailsViewProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\bin\Debug\DataDetailsViewProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.VehicleDetailsForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\DataDetailsViewSolution\DataDetailsViewProject\obj\Debug\DataDetailsViewProject.pdb

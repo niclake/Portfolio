@@ -1,0 +1,30 @@
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\Classification.exe
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\Classification.pdb
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\Classification.ClassificationForm.resources
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\Classification.vbproj.GenerateResource.Cache
+C:\Data\Teaching\032McKeown\ch04\Classification\bin\Classification.exe
+C:\Data\Teaching\032McKeown\ch04\Classification\bin\Classification.pdb
+C:\Data\Teaching\032McKeown\ch04\Classification\bin\Classification.xml
+C:\Data\Teaching\032McKeown\ch04\Classification\obj\Debug\Classification.xml
+E:\150034-Bradley\Chapter 4\ClassificationSolution\obj\Debug\Classification.exe
+E:\150034-Bradley\Chapter 4\ClassificationSolution\obj\Debug\Classification.xml
+E:\150034-Bradley\Chapter 4\ClassificationSolution\obj\Debug\Classification.pdb
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\Classification.exe
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\Classification.xml
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\Classification.pdb
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\bin\Classification.exe
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\bin\Classification.pdb
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\bin\Classification.xml
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\Classification.ClassificationForm.resources
+E:\150034-Bradley\Chapter 5\ClassificationFunctionSolution\obj\Debug\Classification.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\Classification.exe
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\Classification.xml
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\Classification.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\bin\Classification.exe
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\bin\Classification.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\bin\Classification.xml
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\Classification.ClassificationForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\ClassificationFunctionSolution\obj\Debug\Classification.vbproj.GenerateResource.Cache

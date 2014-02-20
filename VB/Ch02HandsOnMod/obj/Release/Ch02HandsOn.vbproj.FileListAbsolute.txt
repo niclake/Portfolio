@@ -1,0 +1,13 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Release\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Release\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Release\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.MainForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Release\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Release\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Release\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Release\Ch02HandsOn.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputer.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputer.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\bin\Debug\CalorieComputerProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\bin\Debug\CalorieComputerProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\bin\Debug\CalorieComputerProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.pdb
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\CalorieComputerSolution\CalorieComputerProject\obj\Debug\CalorieComputerProject.pdb

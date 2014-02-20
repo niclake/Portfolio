@@ -1,0 +1,10 @@
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\bin\Debug\CampusCheersProject.exe
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\bin\Debug\CampusCheersProject.pdb
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\bin\Debug\CampusCheersProject.xml
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheers.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheers.Resources.resources
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheersProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheersProject.exe
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheersProject.xml
+C:\Documents and Settings\ilk\Desktop\CampusCheersSolution\CampusCheersProject\obj\Debug\CampusCheersProject.pdb

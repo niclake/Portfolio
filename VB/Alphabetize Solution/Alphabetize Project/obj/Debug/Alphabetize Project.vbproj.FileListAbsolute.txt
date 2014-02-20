@@ -1,0 +1,54 @@
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.exe
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.pdb
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.xml
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.MainForm.resources
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.Resources.resources
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+H:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.exe
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.xml
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.MainForm.resources
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.Resources.resources
+E:\150034-Spring09\Chapter 4\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+H:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+H:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.exe
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.pdb
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.xml
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.MainForm.resources
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.Resources.resources
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.SplashScreen1.resources
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.exe
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.pdb
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.xml
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.MainForm.resources
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.Resources.resources
+E:\150034-Bradley\Chapter 5\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\bin\Debug\Alphabetize Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\Alphabetize Solution\Alphabetize Project\obj\Debug\Alphabetize Project.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\bin\Debug\SmartDeviceProject.exe
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\bin\Debug\SmartDeviceProject.pdb
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\bin\Debug\SmartDeviceProject.xml
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceExample.Resources.resources
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceExample.TicketForm.resources
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceProject.exe
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceProject.xml
+C:\Documents and Settings\ilk\Desktop\SmartDeviceSolution\SmartDeviceProject\obj\Debug\SmartDeviceProject.pdb

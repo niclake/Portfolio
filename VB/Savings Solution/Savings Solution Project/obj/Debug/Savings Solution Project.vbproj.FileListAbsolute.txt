@@ -1,0 +1,13 @@
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\bin\Debug\Savings Solution Project.exe
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\bin\Debug\Savings Solution Project.pdb
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\bin\Debug\Savings Solution Project.xml
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings_Solution.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings_Solution.Resources.resources
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.exe
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.xml
+C:\Documents and Settings\ilk\Desktop\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.pdb
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Savings Solution\Savings Solution Project\obj\Debug\Savings Solution Project.pdb

@@ -1,0 +1,10 @@
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\bin\Debug\PieceworkPayCalculatorProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\bin\Debug\PieceworkPayCalculatorProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\bin\Debug\PieceworkPayCalculatorProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\PieceworkPayCalculatorSolution\PieceworkPayCalculatorProject\obj\Debug\PieceworkPayCalculatorProject.pdb

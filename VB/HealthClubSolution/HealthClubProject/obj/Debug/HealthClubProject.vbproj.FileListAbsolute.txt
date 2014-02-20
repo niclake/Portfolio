@@ -1,0 +1,10 @@
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\bin\Debug\HealthClubProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\bin\Debug\HealthClubProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\bin\Debug\HealthClubProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\HealthClubSolution\HealthClubProject\obj\Debug\HealthClubProject.pdb

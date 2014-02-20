@@ -1,0 +1,20 @@
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.exe
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.pdb
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.xml
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.MainForm.resources
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.Resources.resources
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.exe
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.xml
+E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.vbproj.GenerateResource.Cache

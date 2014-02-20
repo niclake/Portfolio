@@ -1,0 +1,56 @@
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.exe
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.pdb
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.xml
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.MainForm.resources
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.Resources.resources
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+H:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.exe
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.pdb
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.xml
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.MainForm.resources
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.Resources.resources
+E:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.vbproj.GenerateResource.Cache
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.exe
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.pdb
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.xml
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\ResolveAssemblyReference.cache
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.MainForm.resources
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.Resources.resources
+R:\150034-Spring09\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.vbproj.GenerateResource.Cache
+H:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+H:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+H:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+E:\150034-Bradley\Chapter 4\Chapter04\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+E:\150034-Bradley\Chapter 4\Chapter04\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+E:\150034-Bradley\Chapter 4\Chapter04\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.exe
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.pdb
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.xml
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.MainForm.resources
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.Resources.resources
+E:\150034-Bradley\Chapter 4\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.exe
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.xml
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.pdb
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.exe
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.pdb
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\bin\Debug\Price Calculator Project.xml
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price_Calculator.Resources.resources
+C:\Documents and Settings\ilk\Desktop\Price Calculator Solution\Price Calculator Project\obj\Debug\Price Calculator Project.vbproj.GenerateResource.Cache

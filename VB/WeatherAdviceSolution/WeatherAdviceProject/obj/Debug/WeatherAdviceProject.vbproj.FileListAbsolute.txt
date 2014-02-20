@@ -1,0 +1,23 @@
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.exe
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.pdb
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.xml
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.MainForm.resources
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.Resources.resources
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.exe
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.xml
+C:\Documents and Settings\ilk\Local Settings\Application Data\Temporary Projects\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.pdb
+C:\Documents and Settings\ilk\Desktop\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.exe
+C:\Documents and Settings\ilk\Desktop\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.xml
+C:\Documents and Settings\ilk\Desktop\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.WeatherForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\obj\Debug\WeatherAdviceProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\WeatherAdviceSolution\WeatherAdviceProject\bin\Debug\WeatherAdviceProject.xml

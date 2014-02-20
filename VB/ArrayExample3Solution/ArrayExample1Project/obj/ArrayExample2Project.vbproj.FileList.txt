@@ -1,0 +1,10 @@
+bin\Debug\ArrayExample1Project.exe
+bin\Debug\ArrayExample1Project.pdb
+bin\Debug\ArrayExample1Project.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ArrayExample1Project.MainForm.resources
+obj\Debug\ArrayExample1Project.Resources.resources
+obj\Debug\ArrayExample2Project.vbproj.GenerateResource.Cache
+obj\Debug\ArrayExample1Project.exe
+obj\Debug\ArrayExample1Project.xml
+obj\Debug\ArrayExample1Project.pdb

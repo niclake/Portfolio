@@ -1,0 +1,106 @@
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+C:\Users\Anita\Documents\VB 2008\Ch2\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+C:\Users\Julia Bradley\Documents\VB2008\Chapter2\InChapterPrograms\Ch02HandsOn\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Users\Lucky\Downloads\Chap02\Chap02\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+H:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+E:\150034-Spring09\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.exe
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.xml
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.pdb
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.exe
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.pdb
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\bin\Debug\Ch02HandsOn.xml
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.MainForm.resources
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.Resources.resources
+E:\150034-Bradley\Chapter 2\Ch02HandsOn\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.exe
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.xml
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.pdb
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.exe
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.pdb
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.xml
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.MainForm.resources
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.Resources.resources
+E:\150034-Bradley\Chapter 2\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+L:\courses\150034\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.exe
+L:\courses\150034\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.xml
+L:\courses\150034\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.exe
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\bin\Debug\Ch02HandsOn.xml
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.exe
+C:\Users\niclake\Documents\My Dropbox\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.xml
+C:\Users\niclake\Documents\My Dropbox\VB\Ch02HandsOnMod\obj\Debug\Ch02HandsOn.pdb

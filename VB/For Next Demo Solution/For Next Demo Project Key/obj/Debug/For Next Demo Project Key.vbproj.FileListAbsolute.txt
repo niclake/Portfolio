@@ -1,0 +1,16 @@
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.exe
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.pdb
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.xml
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\ResolveAssemblyReference.cache
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For_Next_Demo.MainForm.resources
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For_Next_Demo.Resources.resources
+H:\Chapter 5\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 7\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+E:\150034-Spring09\Chapter 7\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+E:\150034-Spring09\Chapter 7\For Next Demo Solution Key\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb
+E:\150034-Spring09\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+E:\150034-Spring09\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+E:\150034-Spring09\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb

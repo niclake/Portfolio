@@ -1,0 +1,50 @@
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.pdb
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.MainForm.resources
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.Resources.resources
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.pdb
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.exe
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.xml
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.pdb
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.exe
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.pdb
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.xml
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\ResolveAssemblyReference.cache
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.MainForm.resources
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.Resources.resources
+F:\150034-Bradley\Chapter 4\Ch4NestedIfSolution\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.pdb
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.pdb
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.MainForm.resources
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.Resources.resources
+E:\150034-Bradley\Chapter 5\DiscountFinderMenusKey\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.pdb
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.exe
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.pdb
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.xml
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.MainForm.resources
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.Resources.resources
+E:\150034-Bradley\Chapter 5\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.exe
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.xml
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.pdb
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.exe
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.pdb
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\bin\Debug\Ch4NestedIfProject.xml
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfSolution.Resources.resources
+C:\Documents and Settings\ilk\Desktop\DiscountFinderMenus\Ch4NestedIfProject\obj\Debug\Ch4NestedIfProject.vbproj.GenerateResource.Cache

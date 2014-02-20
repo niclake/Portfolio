@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ArrayExample2Solution">
+</Property><Property Name="Solution File" Value="E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample2Solution.sln">
+</Property><Property Name="User Options File" Value="E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample2Solution.suo">
+</Property><Property Name="Date" Value="Wednesday, April 08, 2009">
+</Property><Property Name="Time" Value="12:58 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ArrayExample2Solution.sln" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample2Solution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ArrayExample2Solution.suo" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample2Solution.suo">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\ArrayExample2Project.vbproj" Description="Project file successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\ArrayExample2Project.vbproj">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\ArrayExample2Project.vbproj.user" Description="Project user file successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\ArrayExample2Project.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\MainForm.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\MainForm.Designer.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\MainForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Application.Designer.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Application.myapp" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Settings.settings" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\MainForm.resx" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\My Project\Resources.resx" Description="File successfully backed up as E:\150034-Spring09\Chapter 8\ArrayExample2Solution\Backup\ArrayExample1Project\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\ArrayExample2Project.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ArrayExample2Project" Source="ArrayExample1Project\ArrayExample2Project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ArrayExample2Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ArrayExample2Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ArrayExample2Project" Source="ArrayExample1Project\ArrayExample2Project.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

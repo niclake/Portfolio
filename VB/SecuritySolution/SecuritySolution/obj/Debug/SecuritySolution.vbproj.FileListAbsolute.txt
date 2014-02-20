@@ -1,0 +1,11 @@
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\bin\Debug\SecuritySolution.exe
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\bin\Debug\SecuritySolution.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\bin\Debug\SecuritySolution.xml
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.MyLoginForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.exe
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.xml
+C:\Users\niclake\Documents\My Dropbox\VB\SecuritySolution\SecuritySolution\obj\Debug\SecuritySolution.pdb

@@ -1,0 +1,4 @@
+C:\Documents and Settings\ilk\Desktop\LoanProjectSolution\LoanProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\LoanProjectSolution\LoanProject\obj\Debug\LoanProject.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\LoanProjectSolution\LoanProject\obj\Debug\LoanProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\LoanProjectSolution\LoanProject\obj\Debug\LoanProject.vbproj.GenerateResource.Cache

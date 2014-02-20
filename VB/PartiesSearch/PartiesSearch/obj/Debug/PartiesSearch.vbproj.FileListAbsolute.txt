@@ -1,0 +1,10 @@
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\bin\Debug\PartiesSearch.exe
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\bin\Debug\PartiesSearch.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\bin\Debug\PartiesSearch.xml
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.exe
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.xml
+C:\Users\niclake\Documents\My Dropbox\VB\PartiesSearch\PartiesSearch\obj\Debug\PartiesSearch.pdb

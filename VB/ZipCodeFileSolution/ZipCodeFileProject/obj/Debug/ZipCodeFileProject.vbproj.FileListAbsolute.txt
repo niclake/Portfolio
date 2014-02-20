@@ -1,0 +1,33 @@
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.exe
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.pdb
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.xml
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ResolveAssemblyReference.cache
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.MainForm.resources
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.Resources.resources
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.vbproj.GenerateResource.Cache
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.exe
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.xml
+F:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.pdb
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.exe
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.xml
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.pdb
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.exe
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.pdb
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.xml
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.MainForm.resources
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.Resources.resources
+E:\150034-Bradley\MiscSpring10\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\bin\Debug\ZipCodeFileProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileSolutionKey.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\ZipCodeFileSolution\ZipCodeFileProject\obj\Debug\ZipCodeFileProject.pdb

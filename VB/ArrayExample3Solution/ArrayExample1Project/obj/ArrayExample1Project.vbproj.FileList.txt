@@ -1,0 +1,3 @@
+obj\Debug\ArrayExample1Project.exe
+obj\Debug\ArrayExample1Project.xml
+obj\Debug\ArrayExample1Project.pdb

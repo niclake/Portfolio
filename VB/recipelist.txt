@@ -1,0 +1,52 @@
+1,Hot Sausage Rolls,Hot and Cold Appetizers,Appetizer,30,45,0
+2,Tuna Salad in Popover Bowl,Salads and Dressings,Lunch,4,70,0
+3,Creamed Potato Soup,Soups,Lunch,4,35,0
+4,Vegetable Chicken Pasta,Poultry,Dinner,4,25,0
+5,Cheesy Garlic Bread,Breads and Baked Goods,Appetizer,4,20,1
+6,Banana Nut Muffins,Breads and Baked Goods,Breakfast,12,25,1
+7,Honey Mustard Chicken,Poultry,Dinner,4,40,0
+8,All Season Grilled Chicken,Poultry,Dinner,4,45,0
+9,Tender Pot Roasted Beef,Beef,Dinner,4,70,0
+10,Garden Stuffed Baked Potatoes,Vegetables and Legumes,Dinner,4,55,1
+11,Marinated Broccoli and Tomato Salad,Salads and Dressings,Dinner,6,20,1
+12,Cucumber and Onion Salad,Salads and Dressings,Dinner,4,15,1
+13,California Coleslaw,Salads and Dressings,Lunch,4,25,1
+14,Deviled Eggs with Ham,Hot and Cold Appetizers,Appetizer,4,25,0
+15,Smoked Haddock Pate,Hot and Cold Appetizers,Appetizer,8,30,0
+16,Fresh Cauliflower Soup,Soups,Lunch,4,30,1
+17,Vegetable and Cheese Omelette,Eggs and Omelettes,Breakfast,4,15,1
+18,Eggs and Canadian Bacon Florentine,Eggs and Omelettes,Breakfast,4,50,0
+19,Spinach Quiche,Eggs and Omelettes,Brunch,6,40,1
+20,Onion and Bacon Quiche,Eggs and Omelettes,Brunch,6,65,0
+21,Trout Amandine,Fish,Dinner,4,18,0
+22,Oven-Poached Sole w/Tarragon Sauce,Fish,Dinner,4,55,0
+23,Chocolate Fudge Sauce,Sauces and Dips,Dessert,6,10,0
+24,Raspberry Almond Tartlets,Pies and Tarts,Dessert,24,65,0
+25,Crispy Raisin Drops,Cookies,Dessert,36,25,0
+26,Maple Glazed Apple Cookies,Cookies,Dessert,48,45,0
+27,Southern Pecan Pie,Pies and Tarts,Dessert,8,65,0
+28,Apple Raisin Tart,Pies and Tarts,Dessert,6,75,0
+29,Pumpkin Lemon Cream Pie,Pies and Tarts,Dessert,6,90,0
+30,Double Chocolate Mint Chip Cookies,Cookies,Dessert,18,25,0
+31,Chocolate Mint Layer Cake,Cakes and Pastries,Dessert,12,45,0
+32,Cranberry Upside-Down Muffins,Breads and Baked Goods,Breakfast,12,55,0
+33,Whole Grain Buttermilk Bread,Breads and Baked Goods,Appetizer,24,60,0
+34,Herbed Beer Bread,Breads and Baked Goods,Appetizer,18,90,0
+35,Lucia Buns,Breads and Baked Goods,Appetizer,48,40,0
+36,Coconut Chocolate Torte,Cakes and Pastries,Dessert,10,95,0
+37,Almond Glazed Picnic Cake,Cakes and Pastries,Dessert,8,55,0
+38,Asparagus Potato Casserole,Vegetables and Legumes,Dinner,4,45,1
+39,Broccoli Parmesan,Vegetables and Legumes,Dinner,4,25,1
+40,Zucchini and Tomato Saute,Vegetables and Legumes,Dinner,4,45,1
+41,Chicken Liver on Muffins,Sandwiches,Lunch,4,30,0
+42,Blue Cheese Salad with Chive Dressing,Salads and Dressings,Dinner,4,20,1
+43,Brussel Sprouts Medley,Vegetables and Legumes,Dinner,4,30,1
+44,Garden Pita Pockets,Sandwiches,Lunch,4,12,1
+45,Fruit and Cheesy Grill,Sandwiches,Lunch,4,20,1
+46,Royal Stuffed Tomatoes,Vegetables and Legumes,Dinner,6,35,1
+47,El Pollo Nacho Platter,Poultry,Dinner,6,35,0
+48,Spinach Party Ryes,Sandwiches,Lunch,24,25,1
+49,Snappy Vegetable Dip,Sauces and Dips,Appetizer,18,15,0
+50,Eggs Jardiniere,Eggs and Omelettes,Breakfast,4,25,1
+51,Pepper Sirloin Steak,Beef,Dinner,6,25,0
+52,Chocolate Turtle Cheesecake,Cakes and Pastries,Dessert,12,35,0

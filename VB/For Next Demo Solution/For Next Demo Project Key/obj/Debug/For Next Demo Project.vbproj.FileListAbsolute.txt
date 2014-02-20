@@ -1,0 +1,33 @@
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.exe
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.pdb
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.xml
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\ResolveAssemblyReference.cache
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.MainForm.resources
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.Resources.resources
+H:\Chapter 5\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.exe
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.pdb
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.xml
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.MainForm.resources
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.Resources.resources
+E:\150034-Bradley\Chapter 7\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.exe
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.pdb
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\bin\Debug\For Next Demo Project Key.xml
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For_Next_Demo.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project.vbproj.GenerateResource.Cache
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\For Next Demo Solution\For Next Demo Project Key\obj\Debug\For Next Demo Project Key.pdb

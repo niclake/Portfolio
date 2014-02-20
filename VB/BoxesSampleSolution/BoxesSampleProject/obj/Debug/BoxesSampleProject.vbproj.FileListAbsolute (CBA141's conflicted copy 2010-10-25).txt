@@ -1,0 +1,43 @@
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\bin\Debug\BoxesSampleProject.exe
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\bin\Debug\BoxesSampleProject.pdb
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\bin\Debug\BoxesSampleProject.xml
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.MainForm.resources
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.Resources.resources
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.vbproj.GenerateResource.Cache
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.exe
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.xml
+C:\Users\Robby\AppData\Local\Temporary Projects\BoxesSampleProject\obj\Debug\BoxesSampleProject.pdb
+H:\150034-Spring09\Chapter 5\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.exe
+H:\150034-Spring09\Chapter 5\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.xml
+H:\150034-Spring09\Chapter 5\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.pdb
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.exe
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.xml
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.pdb
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.exe
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.pdb
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.xml
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.MainForm.resources
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.Resources.resources
+E:\150034-Spring09\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.exe
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.xml
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.pdb
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.exe
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.pdb
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.xml
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.MainForm.resources
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.Resources.resources
+E:\150034-Bradley\Chapter 7\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\bin\Debug\BoxesSampleProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\BoxesSampleSolution\BoxesSampleProject\obj\Debug\BoxesSampleProject.vbproj.GenerateResource.Cache

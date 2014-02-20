@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Classification">
+</Property><Property Name="Solution File" Value="C:\Data\Teaching\032McKeown\ch04\Classification\Classification.sln">
+</Property><Property Name="User Options File" Value="C:\Data\Teaching\032McKeown\ch04\Classification\Classification.suo">
+</Property><Property Name="Date" Value="Wednesday, February 17, 2010">
+</Property><Property Name="Time" Value="12:16 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Classification.sln" Description="File successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Classification.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Classification.suo" Description="File successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Classification.suo">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Classification.vbproj" Description="Project file successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Classification.vbproj">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Classification.vbproj.user" Description="Project user file successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Classification.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Classification" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Form1.vb" Description="File successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Form1.resx" Description="File successfully backed up as C:\Data\Teaching\032McKeown\ch04\Classification\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Classification.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Classification" Source="Classification.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Classification.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Classification.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Classification" Source="Classification.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

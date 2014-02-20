@@ -1,0 +1,3 @@
+obj\Debug\Odd Even Project.exe
+obj\Debug\Odd Even Project.xml
+obj\Debug\Odd Even Project.pdb

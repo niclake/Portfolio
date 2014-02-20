@@ -1,0 +1,50 @@
+SELECT CompanyName, ProductName, CategoryName, SUM(Quantity) AS NumOrdered
+FROM Suppliers, Products, Categories, Order_Details
+WHERE Suppliers.SupplierID = Products.SupplierID
+AND Categories.CategoryID = Products.CategoryID
+AND Products.ProductID = Order_Details.ProductID
+GROUP BY Products.ProductID
+ORDER BY NumOrdered DESC
+
+
+Page 617 - 
+INSERT, UPDATE, DELETE rows
+CREATE and DELETE tables
+
+For auto-incrimenting tables, you don't want to put those values in (aka ShipperID)
+
+INSERT INTO Shippers (CompanyName, Phone)
+VALUES
+('Canada Post', '416-555-1221');
+
+
+UPDATE Shippers
+SET Phone = '(416) 555-1221'
+WHERE SupplierID = 4   <<<<<< DO NOT FORGET THIS LINE
+
+
+DELETE FROM Shippers
+WHERE ShipperID = 4
+
+---------------------------
+
+Tables (622)
+Need TableName, FieldNames > DataType
+
+CREATE TABLE Dogs
+(
+name varchar(20),
+breed varchar(20),
+sex char(1),
+birth date,
+death date
+);
+
+
+INSERT INTO Dogs
+(name, breed, sex, birth, death)
+VALUES
+('Fido', 'Mutt', 'M', '2004-10-01', '2010-01-02')
+
+
+DROP TABLE Dogs;  <<< Deletes the table

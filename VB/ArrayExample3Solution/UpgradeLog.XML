@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ArrayExample1Solution">
+</Property><Property Name="Solution File" Value="D:\ArrayExample3SolutionKey\ArrayExample1Solution.sln">
+</Property><Property Name="User Options File" Value="D:\ArrayExample3SolutionKey\ArrayExample1Solution.suo">
+</Property><Property Name="Date" Value="Tuesday, April 07, 2009">
+</Property><Property Name="Time" Value="20:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ArrayExample1Solution.sln" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Solution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ArrayExample1Solution.suo" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Solution.suo">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\ArrayExample3Project.vbproj" Description="Project file successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\ArrayExample3Project.vbproj">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\MainForm.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\MainForm.Designer.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\MainForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Application.Designer.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Application.myapp" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Settings.settings" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\MainForm.resx" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\My Project\Resources.resx" Description="File successfully backed up as D:\ArrayExample3SolutionKey\Backup\ArrayExample1Project\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\ArrayExample3Project.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ArrayExample3Project" Source="ArrayExample1Project\ArrayExample3Project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ArrayExample1Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ArrayExample1Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ArrayExample3Project" Source="ArrayExample1Project\ArrayExample3Project.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

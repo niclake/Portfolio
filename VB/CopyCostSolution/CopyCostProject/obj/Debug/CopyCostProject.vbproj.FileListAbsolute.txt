@@ -1,0 +1,13 @@
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\bin\Debug\CopyCostProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\bin\Debug\CopyCostProject.pdb
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\bin\Debug\CopyCostProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.vbproj.GenerateResource.Cache
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.exe
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.xml
+C:\Users\niclake\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.pdb
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\CopyCostSolution\CopyCostProject\obj\Debug\CopyCostProject.pdb

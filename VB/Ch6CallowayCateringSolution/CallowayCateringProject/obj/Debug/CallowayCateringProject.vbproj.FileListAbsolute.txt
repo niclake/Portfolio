@@ -1,0 +1,112 @@
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+C:\Users\Robby\AppData\Local\Temporary Projects\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+H:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+H:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 4\CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+H:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+E:\150034-Spring09\Chapter 4\CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.AboutBox1.resources
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SplashScreen1.resources
+H:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SummaryForm.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.AboutBox1.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.SplashScreen1.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.SummaryForm.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolutionKey\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+E:\150034-Spring09\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SummaryForm.resources
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+E:\150034-Bradley\Chapter 6\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.AboutBox.resources
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SplashScreen.resources
+C:\Documents and Settings\ilk\Desktop\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SummaryForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.exe
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\bin\Debug\CallowayCateringProject.xml
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.AboutBox.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SplashScreen.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.SummaryForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.vbproj.GenerateResource.Cache
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Ch6CallowayCateringSolution\CallowayCateringProject\obj\Debug\CallowayCateringProject.pdb

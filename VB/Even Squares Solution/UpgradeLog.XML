@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Even Squares Solution">
+</Property><Property Name="Solution File" Value="E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Solution.sln">
+</Property><Property Name="User Options File" Value="E:\150034-Bradley\Chapter 7\Even Squares Solution\Even Squares Solution.suo">
+</Property><Property Name="Date" Value="Monday, March 29, 2010">
+</Property><Property Name="Time" Value="13:15 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Even Squares Solution.sln" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Solution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Even Squares Solution.suo" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Solution.suo">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Even Squares Project.vbproj" Description="Project file successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\Even Squares Project.vbproj">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Even Squares Project.vbproj.user" Description="Project user file successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\Even Squares Project.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Main Form.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\Main Form.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Main Form.Designer.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\Main Form.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Application.Designer.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\ApplicationEvents.vb" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Application.myapp" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Settings.settings" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Main Form.resx" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\Main Form.resx">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\My Project\Resources.resx" Description="File successfully backed up as E:\150034-Bradley\Chapter 7\Even Squares Solution\Backup\Even Squares Project\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Even Squares Project.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Even Squares Project" Source="Even Squares Project\Even Squares Project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Even Squares Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Even Squares Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Even Squares Project" Source="Even Squares Project\Even Squares Project.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

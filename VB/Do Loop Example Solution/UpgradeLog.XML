@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Do Loop Example Solution">
+</Property><Property Name="Solution File" Value="H:\Chapter 5\Do Loop Example Solution Key\Do Loop Example Solution.sln">
+</Property><Property Name="User Options File" Value="H:\Chapter 5\Do Loop Example Solution Key\Do Loop Example Solution.suo">
+</Property><Property Name="Date" Value="Tuesday, March 24, 2009">
+</Property><Property Name="Time" Value="20:18 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Do Loop Example Solution.sln" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Solution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Do Loop Example Solution.suo" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Solution.suo">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\Do Loop Example Project.vbproj" Description="Project file successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\Do Loop Example Project.vbproj">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\MainForm.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\MainForm.Designer.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\MainForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\AssemblyInfo.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Application.Designer.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Resources.Designer.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Settings.Designer.vb" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Application.myapp" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Settings.settings" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\MainForm.resx" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\My Project\Resources.resx" Description="File successfully backed up as H:\Chapter 5\Do Loop Example Solution Key\Backup\Do Loop Example Project\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\Do Loop Example Project.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Do Loop Example Project" Source="Do Loop Example Project\Do Loop Example Project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Do Loop Example Solution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Do Loop Example Solution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Do Loop Example Project" Source="Do Loop Example Project\Do Loop Example Project.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

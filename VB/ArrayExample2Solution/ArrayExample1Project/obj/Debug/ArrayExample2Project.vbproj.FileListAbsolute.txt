@@ -1,0 +1,30 @@
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.exe
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.xml
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.pdb
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.exe
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.pdb
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.xml
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.MainForm.resources
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.Resources.resources
+E:\150034-Spring09\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.exe
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.xml
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.pdb
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.exe
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.pdb
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.xml
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.MainForm.resources
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.Resources.resources
+E:\150034-Bradley\Chapter 8\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\bin\Debug\ArrayExample2Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\ArrayExample2Solution\ArrayExample1Project\obj\Debug\ArrayExample2Project.vbproj.GenerateResource.Cache

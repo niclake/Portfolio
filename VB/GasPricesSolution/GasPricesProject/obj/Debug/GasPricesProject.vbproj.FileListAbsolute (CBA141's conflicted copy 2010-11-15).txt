@@ -1,0 +1,3 @@
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.exe
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.xml
+E:\150034-Bradley\Chapter 8\GasPricesSolution\GasPricesProject\obj\Debug\GasPricesProject.pdb

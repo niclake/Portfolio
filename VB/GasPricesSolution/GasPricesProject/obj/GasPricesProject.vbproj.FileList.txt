@@ -1,0 +1,10 @@
+bin\Debug\GasPricesProject.exe
+bin\Debug\GasPricesProject.pdb
+bin\Debug\GasPricesProject.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GasPrices.MainForm.resources
+obj\Debug\GasPrices.Resources.resources
+obj\Debug\GasPricesProject.vbproj.GenerateResource.Cache
+obj\Debug\GasPricesProject.exe
+obj\Debug\GasPricesProject.xml
+obj\Debug\GasPricesProject.pdb

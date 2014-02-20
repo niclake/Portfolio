@@ -1,0 +1,39 @@
+H:\Chapter 5\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+H:\Chapter 5\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+H:\Chapter 5\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\bin\Debug\Do Loop Example Project.exe
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\bin\Debug\Do Loop Example Project.pdb
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\bin\Debug\Do Loop Example Project.xml
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\DoLoopExample.MainForm.resources
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\DoLoopExample.Resources.resources
+E:\150034-Spring09\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution Key\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.exe
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.pdb
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.xml
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\DoLoopExample.MainForm.resources
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\DoLoopExample.Resources.resources
+E:\150034-Bradley\Chapter 7\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.exe
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.pdb
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\bin\Debug\Do Loop Example Project.xml
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\DoLoopExample.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\DoLoopExample.Resources.resources
+C:\Documents and Settings\ilk\Desktop\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.vbproj.GenerateResource.Cache
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.exe
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.xml
+\\sfs.uni.edu\Students\ilk\Documents\My Dropbox\VB\Do Loop Example Solution\Do Loop Example Project\obj\Debug\Do Loop Example Project.pdb

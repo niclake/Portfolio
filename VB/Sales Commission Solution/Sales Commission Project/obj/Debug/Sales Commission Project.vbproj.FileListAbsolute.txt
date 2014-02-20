@@ -1,0 +1,40 @@
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.exe
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.pdb
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.xml
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\ResolveAssemblyReference.cache
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.MainForm.resources
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.Resources.resources
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.vbproj.GenerateResource.Cache
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.exe
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.xml
+H:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.pdb
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.exe
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.xml
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.pdb
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.exe
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.pdb
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.xml
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.MainForm.resources
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.Resources.resources
+E:\150034-Spring09\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.vbproj.GenerateResource.Cache
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.exe
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.xml
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.pdb
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.exe
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.pdb
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.xml
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\ResolveAssemblyReference.cache
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.MainForm.resources
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.Resources.resources
+E:\150034-Bradley\Chapter 4\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.exe
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.xml
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.pdb
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.exe
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.pdb
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\bin\Debug\Sales Commission Project.xml
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.MainForm.resources
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales_Commission.Resources.resources
+C:\Documents and Settings\ilk\Desktop\Sales Commission Solution\Sales Commission Project\obj\Debug\Sales Commission Project.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+bin\Debug\For Next Demo Project Key.exe
+bin\Debug\For Next Demo Project Key.pdb
+bin\Debug\For Next Demo Project Key.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\For_Next_Demo.MainForm.resources
+obj\Debug\For_Next_Demo.Resources.resources
+obj\Debug\For Next Demo Project.vbproj.GenerateResource.Cache
+obj\Debug\For Next Demo Project Key.exe
+obj\Debug\For Next Demo Project Key.xml
+obj\Debug\For Next Demo Project Key.pdb
