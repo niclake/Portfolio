@@ -1,3 +1,0 @@
-"Newfoundland", "Prince Edward","Nova Scotia", "New Brunswick", "Quebec", "Manitoba", "Saskatchewan", "Alberta"
-
-"Nunavut", "NW Territories", "Yukon Territory"
