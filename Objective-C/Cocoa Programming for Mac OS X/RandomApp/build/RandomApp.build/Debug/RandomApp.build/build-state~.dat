@@ -1,196 +1,0 @@
-TRandomApp
-v7
-r0
-t322032359.989894
-cCheck dependencies
-cProcessInfoPlistFile "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist" RandomApp-Info.plist
-cCopyStringsFile "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-cCompileXIB "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib"
-cProcessPCH /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp" normal x86_64
-cTouch "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app"
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004D81985300000000000000EE
-t1300338771
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/InfoPlist.strings
-c000000004D819AF1000000000000002D
-t1300339441
-s45
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib
-c000000004D819AF1000000000002BB81
-t1300339441
-s179073
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.h
-c000000004D819AF10000000000000137
-t1300339441
-s311
-i<Cocoa/Cocoa.h>
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m
-c000000004D819AF1000000000000016E
-t1300339441
-s366
-i"RandomAppAppDelegate.h"
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomApp_Prefix.pch
-c000000004D819AF10000000000000095
-t1300339441
-s149
-i<Cocoa/Cocoa.h>
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app
-t1300339559
-s102
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
-t1300339557
-s892
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
-t1300339559
-s14752
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo
-t1300339557
-s8
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1300339557
-s92
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib
-t1300339557
-s34414
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList
-c000000004D819B650000000000000156
-t1300339557
-s342
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
-t1300339559
-s21256
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
-t1300339559
-s5088
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m
-c000000004D819AF100000000000000F5
-t1300339441
-s245
-i<Cocoa/Cocoa.h>
-
-N/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch.gch
-t1300339559
-s54212368
-
-NRandomApp-Info.plist
-c000000004D819AF100000000000003EA
-t1300339441
-s1002
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322032357#322032357#0(0"0(0#1#0"8245940720249172992#0"0#
-
-CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322032359.445858
-e322032359.608744
-r1
-xCompileC
-xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@120"Compile /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m322032359#322032359#0(0"0(0#0#112"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m4300882208#2105"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources" -include /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomAppAppDelegate.m" -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o"0#
-
-CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322032359.445079
-e322032359.600901
-r1
-xCompileC
-xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@104"Compile /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m322032359#322032359#0(0"0(0#0#96"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m4300882208#2073"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources" -include /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/main.m" -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o"0#
-
-CCompileXIB "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib"
-s322032357.298618
-e322032357.593269
-r1
-xCompileXIB
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib322032357#322032357#0(0"0(0#0#116"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib4300882208#488"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/MainMenu.xib"0#
-
-CCopyStringsFile "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-s322032357.296598
-e322032357.529089
-r1
-xCopyStringsFile
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings322032357#322032357#0(0"0(0#0#121"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/English.lproj/InfoPlist.strings4300882208#473"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj"0#
-
-CLd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp" normal x86_64
-s322032359.608818
-e322032359.987824
-r1
-xLd
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
-xnormal
-xx86_64
-lSLF07#2@145"Link /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp322032359#322032359#0(0"0(0#0#0"4300882208#817"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug" -filelist "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp"0#
-
-CProcessInfoPlistFile "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist" RandomApp-Info.plist
-s322032357.268944
-e322032357.296433
-r1
-xProcessInfoPlistFile
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
-xRandomApp-Info.plist
-lSLF07#2@28"Process RandomApp-Info.plist322032357#322032357#0(0"0(0#0#110"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomApp-Info.plist8237119321313341440#475"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    builtin-infoPlistUtility RandomApp-Info.plist -genpkginfo "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist"0#
-
-CProcessPCH /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322032357.593464
-e322032359.444950
-r1
-xProcessPCH
-x/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch.gch
-xRandomApp_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile RandomApp_Prefix.pch322032357#322032359#0(0"0(0#0#110"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomApp_Prefix.pch4300882208#1924"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources" -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/RandomApp_Prefix.pch" -o /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-ffbntvgnmfiwhmesnbyjuqterycp/RandomApp_Prefix.pch.gch0#
-
-CTouch "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app"
-s322032359.987886
-e322032359.989863
-r1
-xTouch
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app
-lSLF07#2@121"Touch /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app322032359#322032359#0(0"0(0#0#0"4300882208#239"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp"    /usr/bin/touch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/RandomApp/build/Debug/RandomApp.app"0#
-

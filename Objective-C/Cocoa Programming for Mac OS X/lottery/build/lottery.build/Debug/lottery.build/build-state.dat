@@ -1,194 +1,0 @@
-Tlottery
-v7
-r0
-t322200716.745855
-cCheck dependencies
-cProcessPCH /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004D81985300000000000000EE
-t1300338771
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A600B8400000000000013E6
-t1247808388
-s5094
-
-N/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CA8DA260000000000B3E910
-t1286134310
-s11790608
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.h
-c000000004D84218C00000000000001A4
-t1300504972
-s420
-i<Foundation/Foundation.h>
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m
-c000000004D842CFA00000000000002DB
-t1300507898
-s731
-i"LotteryEntry.h"
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery
-t1300507903
-s15992
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
-t1300507903
-s12600
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList
-c000000004D842B7E0000000000000145
-t1300507518
-s325
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
-t1300507903
-s9844
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m
-c000000004D842CFF000000000000041D
-t1300507903
-s1053
-i<Foundation/Foundation.h>
-i"LotteryEntry.h"
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/lottery
-t1300471064
-s9536
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList
-c000000004D839CE100000000000000A8
-t1300471009
-s168
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
-t1300471064
-s8336
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m
-c000000004D839D130000000000000208
-t1300471059
-s520
-i<Foundation/Foundation.h>
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery_Prefix.pch
-c000000004D83993C000000000000009C
-t1300470076
-s156
-i<Foundation/Foundation.h>
-
-N/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery_Prefix.pch
-c000000004D83993C000000000000009C
-t1300470076
-s156
-i<Foundation/Foundation.h>
-
-N/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-cgxxqkknaebwihhgqrudossjjlgu/lottery_Prefix.pch.gch
-t1300471011
-s41429776
-
-N/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch.gch
-t1300507520
-s41429776
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322200716#322200716#0(0"0(0#1#0"8615798016#0"0#
-
-CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322200703.399298
-e322200703.585622
-r1
-xCompileC
-xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@110"Compile /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m322200703#322200703#0(0"0(0#0#102"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m8615537664#2027"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources" -include /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/LotteryEntry.m" -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o"0#
-
-CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322200703.294183
-e322200703.517560
-r1
-xCompileC
-xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@105"Compile /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m322200703#322200703#0(0"0(0#0#97"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m8615665088#2017"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources" -include /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery.m" -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o"0#
-
-CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322163864.415073
-e322163864.603551
-r1
-xCompileC
-xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@113"Compile /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m322163864#322163864#0(0"0(0#0#105"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m8611650048#2105"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/DerivedSources" -include /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-cgxxqkknaebwihhgqrudossjjlgu/lottery_Prefix.pch -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery.m" -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o"0#
-
-CLd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery" normal x86_64
-s322200703.585694
-e322200703.598838
-r1
-xLd
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery
-xnormal
-xx86_64
-lSLF07#2@112"Link /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery322200703#322200703#0(0"0(0#0#0"8615831584#775"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug" -filelist "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/lottery"0#
-
-CLd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/lottery" normal x86_64
-s322163864.603623
-e322163864.616821
-r1
-xLd
-x/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/lottery
-xnormal
-xx86_64
-lSLF07#2@120"Link /Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/lottery322163864#322163864#0(0"0(0#0#0"8613627264#815"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug" -filelist "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/lottery"0#
-
-CProcessPCH /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-cgxxqkknaebwihhgqrudossjjlgu/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322163809.619481
-e322163811.352324
-r1
-xProcessPCH
-x/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-cgxxqkknaebwihhgqrudossjjlgu/lottery_Prefix.pch.gch
-xlottery_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile lottery_Prefix.pch322163809#322163811#0(0"0(0#0#114"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery_Prefix.pch7090180315241213952#1946"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/build/lottery.build/Debug/lottery.build/DerivedSources" -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery/lottery_Prefix.pch" -o /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-cgxxqkknaebwihhgqrudossjjlgu/lottery_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s322200318.813818
-e322200320.380280
-r1
-xProcessPCH
-x/var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch.gch
-xlottery_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile lottery_Prefix.pch322200318#322200320#0(0"0(0#0#106"/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery_Prefix.pch8386936619607555072#1866"    cd "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap" -iquote "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap" "-F/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/Debug/include" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64" "-I/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/build/lottery.build/Debug/lottery.build/DerivedSources" -c "/Users/niclake/Documents/Programming/Objective-C/Cocoa Programming for Mac OS X/lottery/lottery_Prefix.pch" -o /var/folders/mU/mU+zlRAuF1SdEtaaHIM06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-fbrnzlmkbdtyedbsyckosfnptjxx/lottery_Prefix.pch.gch0#
-
