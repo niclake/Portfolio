@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 formatter = "%r %r %r %r"
 
 print formatter % (1, 2, 3, 4)
