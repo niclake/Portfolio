@@ -1,4 +1,5 @@
-## Random Code
+# Random Code Projects
+
 ### Python/AmazonAffiliate.py
 - Parse a copied Amazon URL, strip out the unnecessary fluff, & append Affiliate code. Used to quickly pull affiliate links from Amazon using KeyboardMaestro.
 
